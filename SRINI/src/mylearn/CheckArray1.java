@@ -9,7 +9,7 @@ public class CheckArray1 {
 
 			System.out.println("The Array Value:" + i);
 		}
-
+		System.out.println("Adding a first change");
 	}
 
 }
